@@ -1,2 +1,2 @@
 # Custom-Excel-Reports
-Downloadable Excel files of sample custom reports on my portfolio page.
+Downloadable Excel files of sample reports seen on my online portfolio page.
